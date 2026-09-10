@@ -7,7 +7,7 @@
 const char *ssid = "RC_CAR_ESP";
 const char *password = "12345678";
 
-// L298N pins
+// L298N
 #define ENA D5
 #define ENB D6
 #define IN1 D7
